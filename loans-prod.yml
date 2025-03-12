@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+loans:
+  message: "Welcome to Bank Loans Services related PRD APIs"
+  contactDetails:
+    name : "Ricardo Alvarado - PO"
+    email : "ricardoalvaradoapontepo@gmail.com"
+  onCallSupport:
+    - 51949557610
+    - 51955555520

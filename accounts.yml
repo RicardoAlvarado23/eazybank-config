@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+accounts:
+  message: "Welcome to Bank account related local APIs"
+  contactDetails:
+    name : "Ricardo Alvarado"
+    email : "ricardoalvaradoaponte@gmail.com"
+  onCallSupport:
+    - 51949557610
+    - 51955555520

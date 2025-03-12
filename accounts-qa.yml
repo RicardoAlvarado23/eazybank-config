@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to Bank account related QA APIs"
+  contactDetails:
+    name : "Ricardo Alvarado - QA Lead"
+    email : "ricardoalvaradoaponteqa@gmail.com"
+  onCallSupport:
+    - 51949557610
+    - 51955555520

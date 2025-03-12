@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+cards:
+  message: "Welcome to Bank Cards Service related QA APIs"
+  contactDetails:
+    name : "Ricardo Alvarado - QA Lead"
+    email : "ricardoalvaradoaponteqa@gmail.com"
+  onCallSupport:
+    - 949557610
+    - 949557610

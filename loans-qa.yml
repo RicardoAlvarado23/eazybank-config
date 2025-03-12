@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+loans:
+  message: "Welcome to Bank Loans Service related QA APIs"
+  contactDetails:
+    name : "Ricardo Alvarado - QA Lead"
+    email : "ricardoalvaradoaponteqa@gmail.com"
+  onCallSupport:
+    - 949557610
+    - 949557610
