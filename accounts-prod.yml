@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to Bank account related PRD APIs"
+  message: "Welcome to Bank account related production APIs"
   contactDetails:
     name : "Ricardo Alvarado - PO"
     email : "{cipher}d8284ec5440535a6752815bdd195fdab2773a2431d36af87f9885410b16e8108a6d6b3c446be6f045cb55848e2d146f6c18d26a553fb238a5c2152e11707954c"
