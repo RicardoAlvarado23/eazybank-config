@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 cards:
-  message: "Welcome to Bank Card Services related prod  APIs"
+  message: "Welcome to Bank Card Services webohooks prod  APIs"
   contactDetails:
     name : "Ricardo Alvarado - PO"
     email : "ricardoalvaradoapontepo@gmail.com"
